@@ -8,3 +8,5 @@ The project demonstrates various techniques used for data munging and creates th
 4) Gradient Boosting Machine
 
 The best result was obtained using GBM and I ended up with a reasonably decent RMSE of 1157 on the test submission
+
+The training and test sets are also attached for practice
